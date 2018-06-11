@@ -1,5 +1,1 @@
-function Objects(){
-  var recipes = {};
-  
-  return recipes;
-}
+var recipes = {};
